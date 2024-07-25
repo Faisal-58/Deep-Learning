@@ -1,1 +1,1 @@
-
+The neural networks are used for classifying the handwritten digits. The accuracy of the developed model is increased when hidden layer is used from 92% to 97%. The confusion matrix also shows less number of errors.
